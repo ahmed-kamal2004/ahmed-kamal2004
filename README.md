@@ -1,5 +1,4 @@
-<h1 align="center">Ahmed Kamal Known As "Logician" </h1>
-<h3 align="center">صباح الخير</h3>
+<h1 align="center">Ahmed Kamal</h1>
 
 
 - 📫 How to reach me - **ahmedkamal200427@gmail.com**
