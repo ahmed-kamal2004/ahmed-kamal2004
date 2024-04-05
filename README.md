@@ -1,4 +1,5 @@
 <h1 align="center">Ahmed Kamal</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ahmed-kamal2004.ahmed-kamal2004">
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I+am+Ahmed+Kamal+<3;Computer+Engineering+Student; Currently+I+am+in+my+Second+year&font=Dancing_Script%70Code&color=%237E3ACE&size=20&center=true&width=500&height=100&duration=4000&pause=1&theme=dark" alt="Ahmed Kamal - Bio">
 </p>
@@ -13,3 +14,9 @@
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&font=Dancing_Script" alt="quotes card">
 </a>
 
+<h2 align="center">👨‍💻 I am currently working on 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/ahmed-kamal2004/Aurora" title="Aurora"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-kamal2004&repo=Aurora&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/ahmed-kamal2004/IbrahimOS" title="IbrahimOS"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-kamal2004&repo=IbrahimOS&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
