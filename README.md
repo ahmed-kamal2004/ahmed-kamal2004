@@ -4,5 +4,5 @@
 </p>
 <ul>
   <li> How to reach me:<b> <a href="mailto:ahmedkamal200427@gmail.com">ahmedkamal200427@gmail.com</a></b></li>
-  <li>⚡ About me:<b> Computer Engineering Student at the University of Cairo</b>b></li>
+  <li>⚡ About me:<b> Computer Engineering Student at the University of Cairo</b></li>
 </ul>
