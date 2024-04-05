@@ -20,9 +20,10 @@
 </a>
 </div>
 
-<h2 align="center">👨‍💻 I am currently working on 👨‍💻</h2>
+
 <br>
 <div width="100%" align="center">
+  <h2 align="center">👨‍💻 I am currently working on 👨‍💻</h2>
   <a align="left" href="https://github.com/ahmed-kamal2004/Aurora" title="Aurora"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-kamal2004&repo=Aurora&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/ahmed-kamal2004/IbrahimOS" title="IbrahimOS"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-kamal2004&repo=IbrahimOS&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
