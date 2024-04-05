@@ -13,9 +13,9 @@
   <li> How to reach me:<b> <a href="mailto:ahmedkamal200427@gmail.com">ahmedkamal200427@gmail.com</a></b></li>
   <li>⚡ About me: <b>2nd Year Computer Engineering Student at the University of Cairo.</b></li>
 </ul>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-kamal2004&hide_progress=true&theme=dark&font=Dancing_Script&layout=pie">
-<a align="right" href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&font=Dancing_Script" alt="quotes card">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-kamal2004&hide_progress=true&theme=dark&font=Dancing_Script&layout=pie">
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&font=Dancing_Script" alt="quotes card">
 </a>
 
 
