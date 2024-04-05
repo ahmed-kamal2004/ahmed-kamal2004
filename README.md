@@ -6,4 +6,4 @@
   <li> How to reach me:<b> <a href="mailto:ahmedkamal200427@gmail.com">ahmedkamal200427@gmail.com</a></b></li>
   <li>⚡ About me: <b>2nd Year Computer Engineering Student at the University of Cairo.</b></li>
 </ul>
-<img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-kamal2004&hide_progress=true)">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-kamal2004&hide_progress=true">
