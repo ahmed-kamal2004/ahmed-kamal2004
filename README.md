@@ -1,4 +1,6 @@
-<h1 align="center">Ahmed Kamal</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ahmed%20Kamal&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer!&descAlignY=51&descAlign=62)
+
+
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ahmed-kamal2004.ahmed-kamal2004">
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Computer+Engineering+Student&font=Dancing_Script%70Code&color=%237E3ACE&size=20&center=true&width=500&height=100&duration=4000&pause=1&theme=dark" alt="Ahmed Kamal - Bio">
@@ -46,11 +48,13 @@
 
 
 ---
+<div>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-kamal2004&theme=dark&show_icons=true&locale=en" alt="ahmed-kamal" />
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-kamal2004&hide_progress=true&theme=dark&font=Dancing_Script&layout=pie">
 </p>
----
+</div>
+<div>
 <p align="center">&nbsp;<img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="400">
 </p>
-
+</div>
