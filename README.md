@@ -9,7 +9,7 @@
 ---
 ### :man_technologist: About Me :
 
-- :wave: I am a Java Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with DevOps background.
+- :wave: I am a Java Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I am interested in Spring and SpringBoot applications.
 ---
 <p align="center">&nbsp;<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/26a48b1f-4716-4b8c-b58a-027f269c8c1f" width="500">
