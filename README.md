@@ -7,15 +7,23 @@
 </p> 
 
 ---
-### :man_technologist: About Me :
+###
+
+:man_technologist: About Me :
 
 - :wave: I am a Java Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I am interested in Spring and SpringBoot applications.
----
+
+
+###
+
 <p align="center">&nbsp;<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/26a48b1f-4716-4b8c-b58a-027f269c8c1f" width="500">
 </p>
 
----
+
+###
+
+
 <!-- Connect with me -->
 <h3 align="center"><b>Connect with me</b></h3>
 
@@ -37,7 +45,14 @@
   
 </div>
 
----
+
+
+
+###
+
+
+
+
 <!-- Medium -->
 <h3 align="center">Check my latest article on Medium</h3>
 <div align="center">
@@ -47,14 +62,21 @@
 </div>
 
 
----
+
+
+###
+
+
+
+
+
 <div>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-kamal2004&theme=dark&show_icons=true&locale=en" alt="ahmed-kamal" />
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-kamal2004&hide_progress=true&theme=dark&font=Dancing_Script&layout=pie">
 </p>
 </div>
-<div>
-<p align="center">&nbsp;<img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="400">
-</p>
-</div>
+
+
+###
+
