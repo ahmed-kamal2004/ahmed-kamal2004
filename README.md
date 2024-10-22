@@ -11,8 +11,8 @@
 
 :man_technologist: About Me :
 
-- :wave: I am a Java Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I am interested in Spring and SpringBoot applications.
+- :wave: I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: I am interested in DevOps philosophy.
 
 
 ###
