@@ -3,7 +3,7 @@
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ahmed-kamal2004.ahmed-kamal2004">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Computer+Engineering+Student&font=Dancing_Script%70Code&color=%237E3ACE&size=20&center=true&width=500&height=100&duration=4000&pause=1&theme=dark" alt="Ahmed Kamal - Bio">
+  <img src="https://readme-typing-svg.demolab.com/?lines=🔥+DevOps+Engineer+💻&font=Dancing_Script%70Code&color=%237E3ACE&size=20&center=true&width=500&height=100&duration=4000&pause=1&theme=dark" alt="Ahmed Kamal - Bio">
 </p> 
 
 ---
