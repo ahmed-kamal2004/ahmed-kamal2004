@@ -3,8 +3,8 @@
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ahmed-kamal2004.ahmed-kamal2004">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🔥+DevOps+Engineer+💻&font=Dancing_Script%70Code&color=%237E3ACE&size=20&center=true&width=500&height=100&duration=4000&pause=1&theme=dark" alt="Ahmed Kamal - Bio">
-</p> 
+<!--   <img src="https://readme-typing-svg.demolab.com/?lines=🔥+DevOps+Engineer+💻&font=Dancing_Script%70Code&color=%237E3ACE&size=20&center=true&width=500&height=100&duration=4000&pause=1&theme=dark" alt="Ahmed Kamal - Bio">
+</p>  -->
 
 ---
 ###
@@ -12,7 +12,7 @@
 :man_technologist: About Me :
 
 - :wave: I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I am interested in DevOps philosophy.
+- :telescope: I am so interested in DevOps philosophy, Searching for great contributions like those guys in the good old days.
 
 ###
 
@@ -23,8 +23,8 @@
 
 ###
 
-<p align="center">&nbsp;<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/26a48b1f-4716-4b8c-b58a-027f269c8c1f" width="500">
-</p>
+<!-- <p align="center">&nbsp;<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/26a48b1f-4716-4b8c-b58a-027f269c8c1f" width="500">
+</p> -->
 
 
 ###
@@ -75,14 +75,14 @@
 
 
 
-
+<!--
 <div>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-kamal2004&theme=dark&show_icons=true&locale=en" alt="ahmed-kamal" />
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-kamal2004&hide_progress=true&theme=dark&font=Dancing_Script&layout=pie">
 </p>
 </div>
-
+-->
 
 ###
 
