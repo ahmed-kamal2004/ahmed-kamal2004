@@ -14,6 +14,12 @@
 - :wave: I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I am interested in DevOps philosophy.
 
+###
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" alt="Giphy Animation">
+</p>
+
 
 ###
 
