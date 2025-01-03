@@ -12,7 +12,7 @@
 :man_technologist: About Me :
 
 - :wave: I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I am so interested in DevOps philosophy, Searching for great contributions like those guys in the good old days.
+- :telescope: I am so interested in DevOps philosophy, Searching for great things like those guys in the good old days.
 
 ###
 
