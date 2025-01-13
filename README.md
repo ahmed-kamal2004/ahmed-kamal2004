@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ahmed%20Kamal&fontSize=90&animation=fadeIn&fontAlignY=38&desc=SRE%20Guy!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ahmed%20Kamal&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
 
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ahmed-kamal2004.ahmed-kamal2004">
