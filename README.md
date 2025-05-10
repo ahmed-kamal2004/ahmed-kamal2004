@@ -11,7 +11,7 @@
 
 :man_technologist: About Me :
 
-- :wave: I am a DevOps Engineer and Open Source Contributor Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :wave: I am a DevOps Engineer, Open Source Contributor<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I am so interested in DevOps philosophy, Searching for great things like those guys in the good old days.
 
 ###
