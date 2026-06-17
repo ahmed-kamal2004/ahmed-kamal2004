@@ -7,18 +7,15 @@
 </p>  -->
 
 ---
+
 ###
 
-About Me :
+:man_technologist: About Me :
 
-- I am a Software (Systems - Infrastructure - Low Level - DevOps - SRE - Databases) Engineer, Open Source Contributor<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- I am interested in Open Source ecosystem, DevOps philosophy, Searching for great things like those guys in the good old days.
-- I am Google Summer of Code 2026 Participant at Postgres.
-- I am LFX mentee 2026 at Drasi.
-- I am Google Summer of Code 2025 Participant at Rizin.
-- I am Ex-Long Term DevOps Intern at Siemens DISW, Ex-Part-time DevOps Engineer at Silverkey Tech.
-
-Reach out to me at ![ahmedkamal200427@gmail.com](ahmedkamal200427@gmail.com)
+- :wave: I am a Software/DevOps Engineer, Open Source Contributor<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: I am so interested in DevOps philosophy, Searching for great things like those guys in the good old days.
+- 🛰️ I am Google Summer of Code 2026 Participant at Postgres, LFX mentee 2026 at Drasi (Microsoft Azure / CNCF), Google Summer of Code 2025 Participant at Rizin.
+- 🗽 I am Ex-Long Term DevOps Intern at Siemens DISW, Ex-Part-time DevOps Engineer at Silverkey Tech.
 
 ###
 
@@ -40,18 +37,21 @@ Reach out to me at ![ahmedkamal200427@gmail.com](ahmedkamal200427@gmail.com)
 <h3 align="center"><b>Connect with me</b></h3>
 
 <div align="center">
+  
+  <a href="mailto:ahmedkamal200427@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  
   <a href="https://www.linkedin.com/in/ahmed-kamal-649b4a231/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <a href="https://medium.com/@ahmedkamal200427" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+  
 </div>
 
-
-
-
 ###
-
-
-
 
 <!-- Medium -->
 <h3 align="center">Check my latest article on Medium</h3>
